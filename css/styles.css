@@ -31,8 +31,11 @@ h2:hover {
   color: blue;
 }
 */
-
+#myPhoto {
+  height: auto;
+  width: auto;
+}
 
 p {
-  text-indent: 50px;
+  text-indent: 5%;
 }
