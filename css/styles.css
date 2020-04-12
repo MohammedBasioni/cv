@@ -1,0 +1,38 @@
+
+body {
+  background-color: #f4f4f4;
+  text-shadow: 2px 2px 5px grey;
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 10%;
+  border-width: 5px;
+}
+
+h1{
+  color: #8566aa;
+  font-style: normal;
+}
+h2 {
+  color: #8566aa;
+}
+h1:hover {
+  color: blue;
+}
+h2:hover {
+  color: blue;
+}
+
+/*
+.headers:hover {
+  color: blue;
+}
+*/
+
+
+p {
+  text-indent: 50px;
+}
